@@ -1711,7 +1711,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/R-A-M-A-N-P-A-N-D-E-Y">
-                    <img src="https://avatars.githubusercontent.com/u/102546029?v=4" width="100px;" alt="Raman Pandey"/>
+                    <img src="https://lh3.googleusercontent.com/a/ACg8ocIBYy1q6bIpVcYlIBE392l_UTqeC7gwOFEQ25lEA5Xg8Qw=s360-c-no" width="100px;" alt="Raman Pandey"/>
                     <br />
                     <sub><b>Raman Pandey</b></sub>
                 </a>
